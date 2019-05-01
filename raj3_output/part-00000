@@ -1,0 +1,202 @@
+Year: 2000	
+Average TMAX: 17.5584256706	
+Average TMIN: 4.43082903296	
+Hottest Day: day: 20000616  val: 52.2  loc: USC00042319	
+Coldest Day: day: 20000101  val: -57.8  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [52.2, 51.1, 50.6, 50.6, 50.6]	
+Coldest Stations ['USC00501684', 'USC00505644', 'USC00505644', 'USC00501684', 'USC00508140']	
+Coldest Station Temperatures [-57.8, -57.8, -55.0, -55.0, -53.9]	
+	
+Year: 2001	
+Average TMAX: 17.8747558648	
+Average TMIN: 4.79238293819	
+Hottest Day: day: 20010703  val: 52.8  loc: USC00042319	
+Coldest Day: day: 20010313  val: -52.8  loc: USW00026508	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [52.8, 52.8, 51.7, 51.1, 51.1]	
+Coldest Stations ['USW00026508', 'USR0000ABCA', 'USW00026508', 'USS0051R01S', 'USW00026508']	
+Coldest Station Temperatures [-52.8, -51.1, -50.6, -48.0, -47.8]	
+	
+Year: 2002	
+Average TMAX: 17.7229975514	
+Average TMIN: 4.65490911032	
+Hottest Day: day: 20020710  val: 53.3  loc: USC00042319	
+Coldest Day: day: 20020124  val: -47.2  loc: USR0000AKAI	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [53.3, 52.8, 52.8, 52.8, 51.7]	
+Coldest Stations ['USR0000AKAI', 'USS0051R01S', 'USS0050S01S', 'USR0000ABEV', 'USC00503212']	
+Coldest Station Temperatures [-47.2, -47.0, -47.0, -46.7, -46.1]	
+	
+Year: 2003	
+Average TMAX: 17.7099600803	
+Average TMIN: 4.86285186518	
+Hottest Day: day: 20030713  val: 53.3  loc: USC00042319	
+Coldest Day: day: 20030107  val: -50.0  loc: USC00501492	
+Hottest Stations ['USC00042319', 'USR0000CMEA', 'USC00042319', 'USC00042319', 'USR0000AHAV']	
+Hottest Station Temperatures [53.3, 52.8, 52.2, 52.2, 52.2]	
+Coldest Stations ['USC00501492', 'USC00501492', 'USS0051R01S', 'USW00026533', 'USS0050S01S']	
+Coldest Station Temperatures [-50.0, -49.4, -49.0, -48.3, -48.0]	
+	
+Year: 2004	
+Average TMAX: 17.4506802106	
+Average TMIN: 4.90952521104	
+Hottest Day: day: 20040811  val: 51.7  loc: USC00042319	
+Coldest Day: day: 20040130  val: -53.3  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00024761', 'USC00024761', 'USC00042319']	
+Hottest Station Temperatures [51.7, 51.7, 51.1, 50.6, 50.6]	
+Coldest Stations ['USC00501684', 'USC00501684', 'USC00502568', 'USS0045O10S', 'USS0045O10S']	
+Coldest Station Temperatures [-53.3, -52.2, -50.6, -50.0, -50.0]	
+	
+Year: 2005	
+Average TMAX: 17.7660982462	
+Average TMIN: 4.98054192201	
+Hottest Day: day: 20050720  val: 53.9  loc: USC00042319	
+Coldest Day: day: 20050113  val: -55.0  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [53.9, 53.3, 53.3, 52.8, 52.8]	
+Coldest Stations ['USC00501684', 'USC00509313', 'USC00501684', 'USC00501684', 'USC00501684']	
+Coldest Station Temperatures [-55.0, -52.8, -52.2, -52.2, -52.2]	
+	
+Year: 2006	
+Average TMAX: 18.0773615979	
+Average TMIN: 5.08548743305	
+Hottest Day: day: 20060717  val: 52.8  loc: USC00042319	
+Coldest Day: day: 20061220  val: -52.8  loc: USR0000ASEL	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [52.8, 52.2, 52.2, 52.2, 51.7]	
+Coldest Stations ['USR0000ASEL', 'USC00501492', 'USC00501492', 'USC00501492', 'USC00501492']	
+Coldest Station Temperatures [-52.8, -52.2, -51.7, -51.7, -51.1]	
+	
+Year: 2007	
+Average TMAX: 17.8219864159	
+Average TMIN: 4.90736120122	
+Hottest Day: day: 20070707  val: 53.9  loc: USC00042319	
+Coldest Day: day: 20070224  val: -53.9  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USW00053139', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [53.9, 52.8, 52.3, 52.2, 52.2]	
+Coldest Stations ['USC00501684', 'USC00501684', 'USC00501684', 'USS0045R01S', 'USC00501684']	
+Coldest Station Temperatures [-53.9, -51.1, -50.6, -50.1, -50.0]	
+	
+Year: 2008	
+Average TMAX: 17.009655467	
+Average TMIN: 4.07394844915	
+Hottest Day: day: 20080623  val: 52.8  loc: USC00044297	
+Coldest Day: day: 20080207  val: -57.8  loc: USC00501684	
+Hottest Stations ['USC00044297', 'USC00042319', 'USC00042319', 'USC00024761', 'USC00044297']	
+Hottest Station Temperatures [52.8, 52.8, 52.2, 51.1, 51.1]	
+Coldest Stations ['USC00501684', 'USC00501684', 'USC00501684', 'USC00501684', 'USC00501684']	
+Coldest Station Temperatures [-57.8, -57.8, -56.1, -53.9, -53.3]	
+	
+Year: 2009	
+Average TMAX: 16.8693988733	
+Average TMIN: 4.33658121143	
+Hottest Day: day: 20090719  val: 53.3  loc: USC00042319	
+Coldest Day: day: 20090108  val: -55.6  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [53.3, 52.2, 52.2, 51.7, 51.7]	
+Coldest Stations ['USC00501684', 'USC00502101', 'USC00502101', 'USC00501684', 'USC00502101']	
+Coldest Station Temperatures [-55.6, -55.6, -55.0, -54.4, -54.4]	
+	
+Year: 2010	
+Average TMAX: 17.151778809	
+Average TMIN: 4.72613962352	
+Hottest Day: day: 20100716  val: 51.7  loc: USC00042319	
+Coldest Day: day: 20100111  val: -53.3  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USR0000AHAV']	
+Hottest Station Temperatures [51.7, 51.7, 51.7, 51.7, 51.1]	
+Coldest Stations ['USC00501684', 'USC00502101', 'USC00501684', 'USC00502101', 'USS0051R01S']	
+Coldest Station Temperatures [-53.3, -53.3, -52.8, -52.8, -51.9]	
+	
+Year: 2011	
+Average TMAX: 17.246933642	
+Average TMIN: 4.60545355887	
+Hottest Day: day: 20110624  val: 51.1  loc: USC00042319	
+Coldest Day: day: 20110124  val: -51.7  loc: USC00509869	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [51.1, 51.1, 50.6, 50.6, 50.0]	
+Coldest Stations ['USC00509869', 'USS0045R01S', 'USS0045R01S', 'USS0051R01S', 'USS0051R01S']	
+Coldest Station Temperatures [-51.7, -50.7, -50.3, -50.2, -50.2]	
+	
+Year: 2012	
+Average TMAX: 18.3914808379	
+Average TMIN: 5.34819231631	
+Hottest Day: day: 20120704  val: 53.7  loc: USS0005N23S	
+Coldest Day: day: 20120130  val: -54.4  loc: USC00503165	
+Hottest Stations ['USS0005N23S', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [53.7, 53.3, 52.2, 52.2, 51.7]	
+Coldest Stations ['USC00503165', 'USC00503165', 'USC00503165', 'USC00503212', 'USS0051R01S']	
+Coldest Station Temperatures [-54.4, -54.4, -53.9, -53.9, -53.6]	
+	
+Year: 2013	
+Average TMAX: 16.731434867	
+Average TMIN: 4.30010399546	
+Hottest Day: day: 20130701  val: 53.9  loc: USC00042319	
+Coldest Day: day: 20130128  val: -52.8  loc: USC00502339	
+Hottest Stations ['USC00042319', 'USW00004134', 'USC00042319', 'USC00042319', 'USC00044297']	
+Hottest Station Temperatures [53.9, 53.3, 53.3, 53.3, 52.8]	
+Coldest Stations ['USC00502339', 'USC00501684', 'USC00501684', 'USC00501684', 'USC00502339']	
+Coldest Station Temperatures [-52.8, -52.2, -51.1, -51.1, -51.1]	
+	
+Year: 2014	
+Average TMAX: 16.8439429894	
+Average TMIN: 4.38491942761	
+Hottest Day: day: 20140714  val: 52.2  loc: USC00042319	
+Coldest Day: day: 20140211  val: -50.0  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USW00053139', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [52.2, 51.7, 51.1, 50.6, 50.6]	
+Coldest Stations ['USC00501684', 'USC00501684', 'USC00501684', 'USC00501684', 'USC00501684']	
+Coldest Station Temperatures [-50.0, -49.4, -48.9, -48.3, -48.3]	
+	
+Year: 2015	
+Average TMAX: 17.723014761	
+Average TMIN: 5.35361682807	
+Hottest Day: day: 20150213  val: 55.6  loc: USR0000HKAU	
+Coldest Day: day: 20150127  val: -52.8  loc: USC00502339	
+Hottest Stations ['USR0000HKAU', 'USR0000HKAU', 'USR0000HKAU', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [55.6, 55.6, 53.9, 51.7, 51.1]	
+Coldest Stations ['USC00502339', 'USC00502339', 'USC00501684', 'USC00501684', 'USC00502339']	
+Coldest Station Temperatures [-52.8, -51.1, -50.6, -50.6, -50.6]	
+	
+Year: 2016	
+Average TMAX: 17.9074322175	
+Average TMIN: 5.51074627805	
+Hottest Day: day: 20160926  val: 53.9  loc: USR0000CBEV	
+Coldest Day: day: 20161130  val: -46.9  loc: USS0051R01S	
+Hottest Stations ['USR0000CBEV', 'USC00042319', 'USC00042319', 'USC00040924', 'USC00042319']	
+Hottest Station Temperatures [53.9, 52.8, 52.2, 52.2, 52.2]	
+Coldest Stations ['USS0051R01S', 'USR0000ACHL', 'USC00501684', 'USR0000ACHL', 'USR0000ACHL']	
+Coldest Station Temperatures [-46.9, -46.7, -46.7, -46.1, -46.1]	
+	
+Year: 2017	
+Average TMAX: 17.664585266	
+Average TMIN: 5.28118997978	
+Hottest Day: day: 20170620  val: 52.8  loc: USC00042319	
+Coldest Day: day: 20170119  val: -52.0  loc: USS0051R01S	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00021050']	
+Hottest Station Temperatures [52.8, 52.8, 52.8, 52.8, 52.2]	
+Coldest Stations ['USS0051R01S', 'USR0000ASLC', 'USW00026529', 'USW00026529', 'USS0051R01S']	
+Coldest Station Temperatures [-52.0, -50.6, -50.6, -50.6, -50.3]	
+	
+Year: 2018	
+Average TMAX: 17.1321408178	
+Average TMIN: 4.94530738941	
+Hottest Day: day: 20180724  val: 52.8  loc: USC00042319	
+Coldest Day: day: 20180110  val: -47.8  loc: USC00501684	
+Hottest Stations ['USC00042319', 'USC00042319', 'USC00042319', 'USC00042319', 'USC00042319']	
+Hottest Station Temperatures [52.8, 52.8, 52.8, 52.8, 52.2]	
+Coldest Stations ['USC00501684', 'USC00501684', 'USR0000ANOR', 'USR0000AKAV', 'USW00096406']	
+Coldest Station Temperatures [-47.8, -47.8, -47.8, -47.8, -47.5]	
+	
+Year: 2019	
+Average TMAX: 7.30315200726	
+Average TMIN: -3.65548757831	
+Hottest Day: day: 20190410  val: 41.7  loc: USW00022010	
+Coldest Day: day: 20190112  val: -49.4  loc: USC00509891	
+Hottest Stations ['USW00022010', 'USC00415048', 'USW00012907', 'USC00417624', 'USR0000TFAL']	
+Hottest Station Temperatures [41.7, 41.1, 40.6, 40.6, 40.0]	
+Coldest Stations ['USC00509891', 'USC00501684', 'USC00211840', 'USC00218618', 'USC00211840']	
+Coldest Station Temperatures [-49.4, -48.9, -48.9, -48.9, -48.9]	
+	
+Max TMAX: 55.6  Station: USR0000HKAU	
+Min TMIN: -57.8  Station: USC00501684	
